@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test App Shop</string>
+    <string name="main">Main</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="card">cart</string>
+    <string name="products">Products</string>
+    <string name="mines">-</string>
+    <string name="plus">+</string>
+    <string name="cart">Cart</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="error_no_internet">No internet connection</string>
+</resources>
